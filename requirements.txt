@@ -1,0 +1,28 @@
+# Chest X-ray Pneumonia Detection Explainability Requirements
+
+# Core ML and visualization dependencies
+tensorflow>=2.10.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+scikit-image>=0.19.0
+opencv-python>=4.6.0
+
+# Explainability libraries
+shap>=0.41.0
+lime>=0.2.0
+
+# Image processing and UI
+Pillow>=9.0.0
+gradio>=3.40.0
+
+# Data handling
+pandas>=1.4.0
+
+# Web report generation  
+jinja2>=3.1.0
+
+# Utilities
+tqdm>=4.64.0
+
+# HuggingFace for model loading
+huggingface_hub>=0.15.0
